@@ -23,7 +23,7 @@ check_input() {
     check_input
   fi
   if [[ -z $target_port ]]; then
-    target_port=443 # Set default port to 443 for HTTPS
+    target_port=443
   fi
 }
 
