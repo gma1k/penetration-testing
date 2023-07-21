@@ -11,8 +11,8 @@ A collection of useful scripts for performing various penetration testing tasks,
 - [Features](#features)
 - [Usage](#usage)
 - [License](#license)
-- [Attacks scripts](attacks/README.md)
-- [Scans scripts](scans/README.md)
+- [Attacks scripts](attacks/)
+- [Scans scripts](scans/)
 
 
 ## Technologies
